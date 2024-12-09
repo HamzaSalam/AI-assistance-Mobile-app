@@ -8,7 +8,7 @@ import {
 
 const FeatureScreen = () => {
   return (
-    <View style={{height: hp(60)}} className="space-y-4">
+    <View style={{height: hp(60)}} className="space-y-4 mb-9">
       <Text
         style={{fontSize: wp(6.5)}}
         className="font-semibold text-gray-700 mb-5">

@@ -14,7 +14,7 @@ const WelcomeScreen = () => {
   };
 
   return (
-    <SafeAreaView className="flex-1 flex justify-around bg-white">
+    <SafeAreaView className="flex-1 flex justify-around bg-emerald-50">
       <View className="space-y-2">
         <Text
           style={{fontSize: wp(10)}}
